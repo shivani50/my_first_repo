@@ -1,0 +1,4 @@
+$ mkdir git_basics
+$ cd git_basics
+git_basics/ $ echo '# README #' > README.md
+git_basics/ $ echo '# LICENSE #' > LICENSE.md
